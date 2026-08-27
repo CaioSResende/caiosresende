@@ -30,8 +30,3 @@ Aplicativo web local para gestão de carteira de investimentos, com cotações a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSResende&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSResende&layout=compact&theme=tokyonight)
